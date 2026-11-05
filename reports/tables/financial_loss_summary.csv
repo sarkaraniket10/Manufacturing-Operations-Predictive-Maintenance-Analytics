@@ -1,0 +1,5 @@
+factory_code,factory_name,country,city,total_incidents,total_downtime_hours,lost_production_cost,maintenance_labor_cost,scrap_spoilage_cost,total_financial_loss,pct_of_global_financial_loss
+FAC-SZX-04,Shenzhen Plant (China),China,Shenzhen,24,7.010000000000001,6591.5,1641.6000000000001,5750,13983.1,46.93496685407401
+FAC-OSA-02,Factory Seiko (Osaka),Japan,Osaka,1,8.0,10000.0,1920.0,450,12370.0,41.520516908617935
+FAC-TYO-01,Factory Meiyo (Tokyo),Japan,Tokyo,3,1.8399999999999999,1397.0,301.2,700,2398.2,8.049676932113787
+FAC-BER-03,Berlin Facility (Germany),Germany,Berlin,1,0.33,462.0,79.2,500,1041.2,3.4948393051942603

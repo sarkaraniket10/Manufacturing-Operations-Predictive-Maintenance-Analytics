@@ -1,0 +1,10 @@
+device_type,equipment_category,criticality
+LaserCutter,Thermal & Optical Cutting,Tier 1 - Critical High Revenue
+LaserWelder,Automated Fusion Joining,Tier 1 - Critical High Revenue
+Furnace,Thermal Processing,Tier 1 - Critical Process
+HeavyDutyDrill,Mechanical Material Removal,Tier 2 - Structural Machining
+CNC,Precision Computerized Machining,Tier 2 - High Precision
+SpotWelder,Electrical Resistance Welding,Tier 3 - Standard Assembly
+ConveyorBelt,Automated Material Transfer,Tier 2 - Critical Flow Bottleneck
+MetalPress,Sheet Stamping & Forming,Tier 2 - Stamping Capacity
+AirWrench,Pneumatic Fastening,Tier 3 - Manual Workstation

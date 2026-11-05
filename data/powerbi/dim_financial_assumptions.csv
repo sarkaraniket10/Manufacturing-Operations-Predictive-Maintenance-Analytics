@@ -1,0 +1,10 @@
+device_type,production_loss_per_hr,technicians,tech_rate_per_hr,scrap_per_incident
+LaserWelder,1250,2,120,450
+LaserCutter,950,2,120,250
+Furnace,1400,2,120,500
+HeavyDutyDrill,650,1,120,200
+ConveyorBelt,1100,2,120,150
+CNC,800,1,120,200
+SpotWelder,550,1,120,150
+MetalPress,900,2,120,300
+AirWrench,300,1,120,50

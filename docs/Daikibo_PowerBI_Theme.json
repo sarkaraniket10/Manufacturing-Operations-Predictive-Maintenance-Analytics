@@ -1,0 +1,87 @@
+{
+  "name": "Daikibo Corporate Dark Navy & Teal",
+  "dataColors": [
+    "#00F2FE",
+    "#4FACFE",
+    "#10B981",
+    "#F59E0B",
+    "#F43F5E",
+    "#A78BFA",
+    "#38BDF8",
+    "#34D399",
+    "#F87171"
+  ],
+  "background": "#0B132B",
+  "foreground": "#F8FAFC",
+  "tableAccent": "#00F2FE",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#1C2541" } },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "color": { "solid": { "color": "#2D3748" } },
+            "radius": 8,
+            "show": true
+          }
+        ],
+        "visualHeader": [
+          {
+            "foreground": { "solid": { "color": "#F8FAFC" } },
+            "background": { "solid": { "color": "#1C2541" } }
+          }
+        ],
+        "title": [
+          {
+            "fontColor": { "solid": { "color": "#F8FAFC" } },
+            "fontSize": 12,
+            "fontFamily": "Segoe UI Semibold"
+          }
+        ],
+        "dropShadow": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#050814" } },
+            "position": "Outer",
+            "preset": "BottomRight"
+          }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#0B132B" } },
+            "transparency": 0
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "labels": [
+          {
+            "color": { "solid": { "color": "#00F2FE" } },
+            "fontSize": 24,
+            "fontFamily": "Segoe UI",
+            "bold": true
+          }
+        ],
+        "categoryLabels": [
+          {
+            "color": { "solid": { "color": "#94A3B8" } },
+            "fontSize": 10,
+            "fontFamily": "Segoe UI"
+          }
+        ]
+      }
+    }
+  }
+}
+

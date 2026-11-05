@@ -1,0 +1,37 @@
+device_id,device_type,factory_code,section,criticality_tier,commission_year,maintenance_cycle_days
+19ff3161-2b3a-40a3-8604-bdc6532d0dab,CNC,FAC-TYO-01,Section 1,Tier 2 - High Precision,2018,30
+2fdd9006-754b-4239-bd47-371ad1aa5fbc,LaserCutter,FAC-TYO-01,Section 3,Tier 1 - Critical High Revenue,2019,30
+b2017fbe-de4d-400a-93b1-5d2856622bc8,HeavyDutyDrill,FAC-TYO-01,Section 1,Tier 2 - Structural Machining,2018,30
+db9b815d-b522-4bf7-8320-4e3936ed9164,SpotWelder,FAC-TYO-01,Section 4,Tier 3 - Standard Assembly,2021,30
+5d8e245b-48a0-4128-9061-2af1d8452a0e,LaserWelder,FAC-TYO-01,Section 3,Tier 1 - Critical High Revenue,2019,30
+ce4c3a9b-3b15-46c8-857e-50b9fee5e807,MetalPress,FAC-TYO-01,Section 4,Tier 2 - Stamping Capacity,2019,30
+c371c357-884f-4a6c-975b-4d74c9388937,Furnace,FAC-TYO-01,Section 2,Tier 1 - Critical Process,2018,30
+dfe35287-200c-4a6e-9b48-292b59034859,ConveyorBelt,FAC-TYO-01,Section 1,Tier 2 - Critical Flow Bottleneck,2019,30
+d80bbf68-63f8-4f13-918b-85d354b6f895,AirWrench,FAC-TYO-01,Section 4,Tier 3 - Manual Workstation,2018,30
+cd8521be-a1cf-454f-99c7-e382ec204ea2,CNC,FAC-OSA-02,Section 3,Tier 2 - High Precision,2018,30
+b8975c6f-4d6f-4bdb-b636-b67d7f50f3b4,LaserCutter,FAC-OSA-02,Section 3,Tier 1 - Critical High Revenue,2020,30
+91edd02d-c434-4f3d-9cdd-239f7a7d4016,HeavyDutyDrill,FAC-OSA-02,Section 2,Tier 2 - Structural Machining,2021,30
+50ec7bc1-2f7b-4c55-aa3a-b9c2b4f9000d,SpotWelder,FAC-OSA-02,Section 3,Tier 3 - Standard Assembly,2020,30
+a5e5f1c3-3146-4027-8f9c-7dd6c9347df3,LaserWelder,FAC-OSA-02,Section 4,Tier 1 - Critical High Revenue,2021,30
+2b082625-53be-4298-a6f2-c7cd72332eee,MetalPress,FAC-OSA-02,Section 3,Tier 2 - Stamping Capacity,2018,30
+9d4c3da5-fa4e-42df-b9e5-1021bc757b0e,Furnace,FAC-OSA-02,Section 3,Tier 1 - Critical Process,2018,30
+553ac755-d37a-43fb-995e-3b87b1b6b377,ConveyorBelt,FAC-OSA-02,Section 2,Tier 2 - Critical Flow Bottleneck,2021,30
+405cf861-f6fd-4403-9bd0-56be348f488c,AirWrench,FAC-OSA-02,Section 3,Tier 3 - Manual Workstation,2020,30
+286391af-a72e-415f-ae9b-2ed0b74df942,CNC,FAC-BER-03,Section 3,Tier 2 - High Precision,2020,30
+a2d3aab1-f1c5-4dcf-8fc4-324d5d0154bc,LaserCutter,FAC-BER-03,Section 1,Tier 1 - Critical High Revenue,2020,30
+b123a2a3-a551-4d6d-aafe-c62957c7506c,HeavyDutyDrill,FAC-BER-03,Section 2,Tier 2 - Structural Machining,2021,30
+662781e9-cf29-4dbb-9e15-7f84cd6a322a,SpotWelder,FAC-BER-03,Section 4,Tier 3 - Standard Assembly,2019,30
+e2c13b90-6648-42c6-8395-958d077e6819,LaserWelder,FAC-BER-03,Section 2,Tier 1 - Critical High Revenue,2021,30
+30c43fd2-ff00-4294-9117-26ef75be5b99,MetalPress,FAC-BER-03,Section 1,Tier 2 - Stamping Capacity,2018,30
+a5297c20-df0a-46d7-bcef-f1cc8c956067,Furnace,FAC-BER-03,Section 4,Tier 1 - Critical Process,2019,30
+31c3d384-059b-4e91-9448-1d370ce69b88,ConveyorBelt,FAC-BER-03,Section 2,Tier 2 - Critical Flow Bottleneck,2021,30
+9207e84e-623b-4b2d-bc11-34547a6683fd,AirWrench,FAC-BER-03,Section 2,Tier 3 - Manual Workstation,2020,30
+fac50562-7226-4dcd-ae66-73cb40324b79,CNC,FAC-SZX-04,Section 3,Tier 2 - High Precision,2020,30
+4ed2fd77-3928-4f6a-aa4b-f9e63808dc37,LaserCutter,FAC-SZX-04,Section 3,Tier 1 - Critical High Revenue,2021,30
+f9fb8358-335e-48c6-9e20-59b554a6f485,HeavyDutyDrill,FAC-SZX-04,Section 4,Tier 2 - Structural Machining,2020,30
+57a9ce29-72ea-409c-aae2-0662a391a194,SpotWelder,FAC-SZX-04,Section 1,Tier 3 - Standard Assembly,2020,30
+b185bdea-db12-4db2-849f-44d0ec6e774b,LaserWelder,FAC-SZX-04,Section 3,Tier 1 - Critical High Revenue,2018,30
+235b63f1-c320-4eec-9a8a-7cbf8159f559,MetalPress,FAC-SZX-04,Section 4,Tier 2 - Stamping Capacity,2021,30
+31e71b60-32f8-4ff5-a0c2-8e0d24737595,Furnace,FAC-SZX-04,Section 2,Tier 1 - Critical Process,2021,30
+e3751fc7-2ef7-44c6-b8d6-2202c4ec3760,ConveyorBelt,FAC-SZX-04,Section 3,Tier 2 - Critical Flow Bottleneck,2018,30
+84c1cfda-e444-439f-bc7f-946246c2c65e,AirWrench,FAC-SZX-04,Section 3,Tier 3 - Manual Workstation,2018,30

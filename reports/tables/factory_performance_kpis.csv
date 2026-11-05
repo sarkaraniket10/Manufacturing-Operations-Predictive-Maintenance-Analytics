@@ -1,0 +1,5 @@
+factory_code,factory_name,country,city,total_records,healthy_events,unhealthy_events,total_downtime_mins,downtime_hours,planned_hours,availability_pct,downtime_share_pct,total_incidents
+FAC-OSA-02,Factory Seiko (Osaka),Japan,Osaka,40176,40128,48,480,8.0,6696.0,99.8805256869773,46.601941747572816,1
+FAC-SZX-04,Shenzhen Plant (China),China,Shenzhen,40176,40134,42,420,7.0,6696.0,99.89545997610514,40.77669902912621,24
+FAC-TYO-01,Factory Meiyo (Tokyo),Japan,Tokyo,40176,40165,11,110,1.8333333333333333,6696.0,99.97262046993231,10.679611650485436,3
+FAC-BER-03,Berlin Facility (Germany),Germany,Berlin,40176,40174,2,20,0.3333333333333333,6696.0,99.99502190362406,1.9417475728155338,1

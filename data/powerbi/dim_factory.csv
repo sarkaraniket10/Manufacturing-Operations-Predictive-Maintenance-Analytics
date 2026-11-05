@@ -1,0 +1,5 @@
+factory_code,factory_name,country,city,area,latitude,longitude,plant_workforce,operating_status
+FAC-TYO-01,Factory Meiyo (Tokyo),Japan,Tokyo,Keiyō Industrial Zone,35.6762,139.6503,450,Active 24/7
+FAC-OSA-02,Factory Seiko (Osaka),Japan,Osaka,Keihanshin Industrial Zone,34.6937,135.5023,380,Active 24/7
+FAC-BER-03,Berlin Facility (Germany),Germany,Berlin,Adlershof Technology Park,52.52,13.405,290,Active 24/7
+FAC-SZX-04,Shenzhen Plant (China),China,Shenzhen,Jiaotang,22.5431,114.0579,620,Active 24/7

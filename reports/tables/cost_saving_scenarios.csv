@@ -1,0 +1,5 @@
+Scenario,Monthly Loss ($),Monthly Savings ($),Annualized Savings ($),Downtime Reduction (%)
+Baseline (Current Reactive State),29792.5,0.0,0.0,0
+Scenario A: Predictive Telemetry & Early Warning,14579.6,15212.9,182554.8,60
+Scenario B: Fast-Swap Spares & Response Teams,22349.325,7443.174999999999,89318.09999999999,35
+Scenario C: Industry 4.0 Reliability Transformation,9173.625,20618.875,247426.5,75
